@@ -1,0 +1,107 @@
+*{
+    font-family: cursive;
+}
+body{
+    background: url(./images/among-us-neon-ios-games-android-games-pc-games-black-1920x1200-3950.png);
+    margin: 0%;
+}
+.nav-bar{
+    background-color: rgb(17, 92, 67);
+    padding: 20px;
+
+}
+.nav-bar a{
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.float-right{
+    float: right;
+}
+.btn{
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.btn-primary{
+    background-color: rgb(0, 173, 253);
+}
+.btn-warning{
+    background-color: yellow;
+    color:black !important;
+}
+.row{
+    display: flex;
+    padding-right: 15px;
+    padding-left: 15px;
+    
+}
+.col2{
+    width: 50%;
+}
+.col3{
+    width: 33.33%;
+}
+.col4{
+    width: 25%; 
+}
+.mt-top{
+    margin: 10px;
+}
+.card{
+    border: 1px solid rgb(22, 168, 95);
+    padding: 10px;
+    margin: 25px;
+}
+.text-align{
+    color: aqua;
+    text-align: center;
+}
+.card img{
+    width: 100%;
+}
+.card a{
+    text-decoration: none;
+    color: yellowgreen;
+}
+.text-primary{
+    padding: 10px;
+    color: white;
+    background-color:orangered;
+}
+.foota {
+    color: yellow;
+    text-decoration: none;
+}
+.abpad{
+    margin: 0px !important;
+    color: honeydew !important;
+    padding: 10px;
+    background-color:darkred ;
+}
+.abpad1{
+    text-align: justify;
+    padding: 50px;
+    color:violet;
+}
+.form1{
+    color:darkorange;
+
+}
+.submit1{
+    color: yellowgreen !important;
+
+}
+.m-3{
+    margin: 20px;
+}
+.mt-5{
+    margin: 150px;
+}
+.mt-5 a{
+    text-decoration: none;
+    padding: 5px 10px 5px 10px;
+    background-color: aqua;
+    border-radius: 5px;
+
+}
